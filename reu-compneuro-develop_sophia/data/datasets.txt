@@ -1,0 +1,6 @@
+BreakHis: 
+	https://www.kaggle.com/datasets/ambarish/breakhis
+	
+Ants and Bees (Hymenoptera): 
+	https://www.kaggle.com/datasets/thedatasith/hymenoptera 
+
